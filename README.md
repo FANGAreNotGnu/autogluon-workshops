@@ -1,17 +1,8 @@
-## My Project
+# AutoGluon Workshops
+This repository contains the materials associated with various workshops showcasing the [AutoGluon](https://github.com/autogluon/autogluon) library.
 
-TODO: Fill this README out!
+## Contents
+The repository contains materials for the following workshops:
+- [`2024-reinvent/`](2024-reinvent/) - AutoGluon: Build your AI/ML applications with the superpower of AutoML
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This project is licensed under the Apache-2.0 License.
 
